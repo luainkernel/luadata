@@ -1,9 +1,4 @@
-*.o
-*.o.cmd
-*.so
-modules.*
-bak/
-tmp/
-CVS/
-obj/
-test
+*.[ao]
+*.[ao].cmd
+modules.builtin
+modules.order
